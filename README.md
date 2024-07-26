@@ -76,6 +76,8 @@ Android: [Android](https://github.com/roamdy/goim-sdk)
 
 iOS: [iOS](https://github.com/roamdy/goim-oc-sdk)
 
+Kotlin: [Kotlin](https://github.com/rhinonet/goim-kotlin-sdk)
+
 ## Benchmark
 ![benchmark](./docs/benchmark.jpg)
 
